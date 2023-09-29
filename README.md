@@ -11,6 +11,8 @@
 
 > **Visual Studio 2019 with MFC package**
 
+> Source Code: https://github.com/alexwu-sys/USB-Latency-POC and access permission by request 
+
 # Results for reference
 ![alt text](https://github.com/alexwu-sys/USB_Latency_POC/blob/main/Pictures/board.jpg)
 ![alt text](https://github.com/alexwu-sys/USB_Latency_POC/blob/main/Pictures/Connections.png)
